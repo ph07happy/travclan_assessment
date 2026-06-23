@@ -11,7 +11,7 @@
 ```
 assessment-2-ba-intern/
 ├── README.md
-├── answers.docx                        ← Sections 1–3 answers with full results
+├── section1_3.docx                        ← Sections 1–3 answers with full results
 ├── sql_section3.docx                   ← SQL schema DDL + query text
 ├── project/
 │   ├── weather_cancellation_analyzer.ipynb
