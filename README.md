@@ -24,7 +24,7 @@ Analysis of 30,000 hotel booking transactions covering channel performance, canc
 
 **Stack:** Python · Pandas · Matplotlib · Google Colab · Google Looker Studio
 
-→ [See assessment-1-hotel-bookings/README.md](./assessment-1-hotel-bookings/README.md)
+→ [See assessment_1/README.md](./assessment_1/README.md)
 
 ---
 
@@ -36,4 +36,4 @@ Four-section structured assessment covering data quality auditing, cancellation 
 
 **Stack:** Python · Pandas · SQLite · requests · Open-Meteo API · Google Colab
 
-→ [See assessment-2-ba-intern/README.md](./assessment-2-ba-intern/README.md)
+→ [See assessment_2/README.md](./assessment_2/README.md)
